@@ -1,0 +1,1 @@
+Neste projeto, criei uma Landing Page simples utilizando apenas HTML puro e CSS. 
